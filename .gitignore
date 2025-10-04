@@ -1,0 +1,41 @@
+# Node.js dependencies
+node_modules/
+
+# Optional npm cache directory
+.npm/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Build artifacts
+dist/
+build/
+
+# Optional: ignore coverage reports from testing
+coverage/
+
+# Optional: ignore local configuration files
+*.local
+*.sublime-project
+*.sublime-workspace
+
+# Optional: ignore TypeScript output (if you later add TS)
+*.tsbuildinfo
+
+# macOS folder attributes
+*.DS_Store
